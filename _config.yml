@@ -105,7 +105,10 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
+      comments: 
+        provider: "disqus"
+        disqus:
+          shortname: "ai-ethics-ama"
       share: true
       related: true
   # _pages
