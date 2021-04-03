@@ -20,8 +20,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   An open space to chat on anything related to AI ethics.
 twitter_username: atg_abhishek
 github_username: atg-abhishek
-minimal_mistakes_skin: contrast
-logo: assets/images/logo_transparent.jpg
+minimal_mistakes_skin: dirt
+logo: assets/images/logo_transparent.png
 search: true
 
 # Build settings
@@ -31,7 +31,7 @@ remote_theme: mmistakes/minimal-mistakes
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Toronto # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
@@ -68,6 +68,9 @@ author:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/atg_abhishek"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/abhishekguptamcgill/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/atg-abhishek"
@@ -83,6 +86,9 @@ footer:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/atg_abhishek"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/abhishekguptamcgill/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/atg-abhishek"
