@@ -20,8 +20,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   An open space to chat on anything related to AI ethics.
 twitter_username: atg_abhishek
 github_username: atg-abhishek
-minimal_mistakes_skin: plum
-logo: assets/images/abhishek.jpg
+minimal_mistakes_skin: contrast
+logo: assets/images/logo_transparent.jpg
 search: true
 
 # Build settings
