@@ -14,9 +14,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: AI Ethics AMA with Abhishek Gupta
+subtitle: Community conversations in a Café on AI ethics
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Helping you build ethical, safe, and inclusive AI systems!
+  An open space to chat on anything related to AI ethics.
 twitter_username: atg_abhishek
 github_username: atg-abhishek
 minimal_mistakes_skin: plum
@@ -59,7 +60,7 @@ plugins:
 author:
   name   : "Abhishek Gupta"
   avatar : "/assets/images/abhishek.jpg"
-  bio    : "Community conversations in a Café on AI ethics"
+  bio    : "A community builder, practitioner, writer, and pragmatist helping to build ethical, safe, and inclusive AI systems."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
