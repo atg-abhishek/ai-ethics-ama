@@ -19,6 +19,6 @@ My goal with this series is to help address these issues and provide you with vi
 
 I hope that you will join me on this journey as I help you and others in the community but at the same time learn from you to create more meaningful conversations and resources for our community to grow and achieve our goals of building ethical, safe, and inclusive AI systems. 
 
-The format of the session will be a 25-minutes conversation on Saturday noon ET for which you can sign up [here](https://forms.gle/EArTEAfP3dvUCDov5). 
+*The format of the session will be a 25-minutes conversation on Saturday noon ET for which you can sign up [here](https://forms.gle/EArTEAfP3dvUCDov5).*
 
 I look forward to hearing from you soon! 
