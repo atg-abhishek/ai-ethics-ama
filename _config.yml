@@ -105,10 +105,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: 
-        provider: "disqus"
-        disqus:
-          shortname: "ai-ethics-ama"
+      comments: true
       share: true
       related: true
   # _pages
@@ -125,3 +122,8 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+  
+comments: 
+  provider: "disqus"
+  disqus:
+    shortname: "ai-ethics-ama"
